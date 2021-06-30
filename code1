@@ -29,4 +29,5 @@ def josephify(n):
 n = int(input(""))
 
 
+print(the man in this position will survive)
 print (josephify(n))
